@@ -1,0 +1,2 @@
+# jurnalku
+membuat tugas programming
